@@ -1,0 +1,2 @@
+# school
+About school administration
